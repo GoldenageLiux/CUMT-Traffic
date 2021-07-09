@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">cumtTraffic</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="storage_description_title">你能允许存储权限吗?</string>
+    <string name="storage_description_why_we_need_the_permission">你好,地图缓存需要存储权限。你能允许吗?</string>
+    <string name="location_description_title">你能允许定位权限吗?</string>
+    <string name="location_description_why_we_need_the_permission">你好,定位功能需要获取位置权限。你能允许吗?</string>
+
+    <string name="map">Map</string>
+    <string name="notification">Notification</string>
+    <string name="collection">Collection</string>
+    <string name="order">Order</string>
+    <string name="other">Other</string>
+    <string name="others">Others</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="about_me">About me</string>
+    <string name="quitlogin">Quit login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="agent_addr">%1$s</string>
+
+    <string name="account">账户</string>
+    <string name="plesase_input_account">请输入手机号</string>
+    <string name="login">登        陆</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="password">密码</string>
+    <string name="plesase_input_password">请输入密码</string>
+    <string name="go_to_register">注册新用户</string>
+    <string name="iv_project_icon">iv_project_icon</string>
+    <string name="tv_register">新用户注册</string>
+    <string name="tv_phone">手机号</string>
+    <string name="et_phone">请输入手机号</string>
+    <string name="bt_get_code">获取验证码</string>
+    <string name="tv_code">验证码</string>
+    <string name="et_code">请输入验证码</string>
+    <string name="tv_name">昵称</string>
+    <string name="et_name">请输入昵称</string>
+    <string name="tv_gender">性别</string>
+    <string name="et_gender">1为男 2为女</string>
+    <string name="tv_age">年龄</string>
+    <string name="et_age">请输入年龄</string>
+    <string name="tv_password">密码</string>
+    <string name="et_password">请输入密码</string>
+    <string name="et_password2">请确认密码</string>
+    <string name="bt_register">提交注册</string>
+
+</resources>

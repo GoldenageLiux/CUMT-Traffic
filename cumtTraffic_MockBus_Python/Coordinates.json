@@ -1,0 +1,5 @@
+[
+  {"busId": 1, "startLat": 34.202138, "startLng": 117.391415, "goLat": 34.267820, "goLng": 117.403775 },
+  {"busId": 2, "startLat": 34.235184, "startLng": 117.328587, "goLat": 34.291225, "goLng": 117.322235 },
+  {"busId": 3, "startLat": 34.287814, "startLng": 117.488232, "goLat": 34.283322, "goLng": 117.415619 }
+]
